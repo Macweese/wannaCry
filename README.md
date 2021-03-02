@@ -1,4 +1,2 @@
 # WannaCry
-This file contains the active ransomware, WannaCry
-I am not responsible for damage to any software that the executable may cause
-Only use this for testing purposes in a secure VM
+This repository contains the ransomware WannaCry Decrypt0r, an attack that happened in 2017. I am not liable for damage to your system, and this should only be used in a secure virtual machine. 
